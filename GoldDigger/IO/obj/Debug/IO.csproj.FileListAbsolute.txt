@@ -1,0 +1,4 @@
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\IO\bin\Debug\IO.dll
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\IO\bin\Debug\IO.pdb
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\IO\obj\Debug\IO.dll
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\IO\obj\Debug\IO.pdb

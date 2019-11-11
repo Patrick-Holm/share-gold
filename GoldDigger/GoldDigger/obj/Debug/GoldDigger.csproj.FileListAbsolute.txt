@@ -1,0 +1,14 @@
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\bin\Debug\GoldDigger.exe.config
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\bin\Debug\GoldDigger.exe
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\bin\Debug\GoldDigger.pdb
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\GoldDigger.csprojAssemblyReference.cache
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\MainWindow.g.cs
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\App.g.cs
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\GoldDigger_MarkupCompile.cache
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\GoldDigger_MarkupCompile.lref
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\MainWindow.baml
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\GoldDigger.g.resources
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\GoldDigger.Properties.Resources.resources
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\GoldDigger.csproj.GenerateResource.cache
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\GoldDigger.exe
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\GoldDigger.pdb

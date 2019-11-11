@@ -1,0 +1,35 @@
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\bin\Debug\GoldDigger.exe.config
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\bin\Debug\GoldDigger.exe
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\bin\Debug\GoldDigger.pdb
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\MainWindow.g.cs
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\App.g.cs
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\GoldDigger_MarkupCompile.cache
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\GoldDigger_MarkupCompile.lref
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\MainWindow.baml
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\GoldDigger.g.resources
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\GoldDigger.Properties.Resources.resources
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\GoldDigger.exe
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\GoldDigger.pdb
+C:\CodeMappe\S3-Eksamen\Eksamen2019\GoldDigger\GoldDigger\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\obj\Debug\MainWindow.g.cs
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\obj\Debug\UserControls\UserControlCrreateAddUser.g.cs
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\obj\Debug\UserControls\UserControlUpdateMetalPrice.g.cs
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\obj\Debug\App.g.cs
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\obj\Debug\GoldDigger_MarkupCompile.cache
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\obj\Debug\GoldDigger_MarkupCompile.lref
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\bin\Debug\GoldDigger.exe.config
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\bin\Debug\GoldDigger.exe
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\bin\Debug\GoldDigger.pdb
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\bin\Debug\BIZ.dll
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\bin\Debug\BIZ.pdb
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\obj\Debug\MainWindow.baml
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\obj\Debug\UserControls\UserControlCrreateAddUser.baml
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\obj\Debug\UserControls\UserControlUpdateMetalPrice.baml
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\obj\Debug\GoldDigger.g.resources
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\obj\Debug\GoldDigger.Properties.Resources.resources
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\obj\Debug\GoldDigger.exe
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\GoldDigger\obj\Debug\GoldDigger.pdb

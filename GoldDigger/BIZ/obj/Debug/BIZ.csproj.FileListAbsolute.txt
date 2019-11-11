@@ -1,0 +1,10 @@
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\BIZ\bin\Debug\BIZ.dll
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\BIZ\bin\Debug\BIZ.pdb
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\BIZ\bin\Debug\IO.dll
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\BIZ\bin\Debug\Repository.dll
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\BIZ\bin\Debug\Repository.pdb
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\BIZ\bin\Debug\IO.pdb
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\BIZ\obj\Debug\BIZ.csprojAssemblyReference.cache
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\BIZ\obj\Debug\BIZ.csproj.CopyComplete
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\BIZ\obj\Debug\BIZ.dll
+C:\Users\patr7973\OneDrive - Campus Vejle\CodeMappe\S3 v2\Eksamen\Eksamen\GoldDigger\BIZ\obj\Debug\BIZ.pdb
