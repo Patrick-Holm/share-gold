@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIZ", "BIZ\BIZ.csproj", "{9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO", "IO\IO.csproj", "{1FAFE74C-B33D-4626-A5E9-18916AD66542}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "..\..\..\..\..\..\Documents\Modtagne filer\Repository\Repository\Repository.csproj", "{22EB1524-3B4F-4EF8-A804-99F066C61E82}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "..\..\Eksamen\Eksamen\GoldDigger\Repository\Repository.csproj", "{0208F994-CDB8-4272-AA9C-B5B5CC987686}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{1FAFE74C-B33D-4626-A5E9-18916AD66542}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FAFE74C-B33D-4626-A5E9-18916AD66542}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FAFE74C-B33D-4626-A5E9-18916AD66542}.Release|Any CPU.Build.0 = Release|Any CPU
-		{22EB1524-3B4F-4EF8-A804-99F066C61E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{22EB1524-3B4F-4EF8-A804-99F066C61E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{22EB1524-3B4F-4EF8-A804-99F066C61E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{22EB1524-3B4F-4EF8-A804-99F066C61E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0208F994-CDB8-4272-AA9C-B5B5CC987686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0208F994-CDB8-4272-AA9C-B5B5CC987686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0208F994-CDB8-4272-AA9C-B5B5CC987686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0208F994-CDB8-4272-AA9C-B5B5CC987686}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

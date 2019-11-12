@@ -45,10 +45,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\..\..\Documents\Modtagne filer\Repository\Repository\Repository.csproj">
-      <Project>{22eb1524-3b4f-4ef8-a804-99f066c61e82}</Project>
-      <Name>Repository</Name>
-    </ProjectReference>
     <ProjectReference Include="..\IO\IO.csproj">
       <Project>{1fafe74c-b33d-4626-a5e9-18916ad66542}</Project>
       <Name>IO</Name>
